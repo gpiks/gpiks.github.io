@@ -1,0 +1,52 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: gpiks
+sub_title: Gaurav Pikale
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  I am a software engineer with a passion for improving developer experience. I work at Bloomberg LP as a 
+  Python Infrastructure Engineer in New York City. Other things that testing my physical limits and races 
+  (both in software and real life!). But most importantly, I like to learn and my interests are 
+  varied. What I would like to know is, what can I learn from you? 
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: gpiks 
+instagram_username: gpiks_ 
+medium_username: gpiks 
+
+# Optional social link, you can choose from the following options:
+# twitter (default), instagram, medium, or dribbble
+
+# Set theme color here
+# Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
+theme_color: blue
+
+# Build settings
+markdown: kramdown
+
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
