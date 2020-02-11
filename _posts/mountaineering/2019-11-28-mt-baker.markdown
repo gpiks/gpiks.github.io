@@ -5,7 +5,7 @@ date:   2019-06-15
 categories: mountaineering
 ---
 
-# Mt. Baker via the North Ridge
+## Mt. Baker via the North Ridge
 
 I recently got into ice climbing but counter-intuitively signed up for this without having ice climbed ever before. I was motivated 
 to make sure that I gain the experience required. I am glad I forced myself to do this because I have realized that my eventual goal is to be
