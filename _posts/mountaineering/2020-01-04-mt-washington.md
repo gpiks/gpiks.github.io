@@ -5,9 +5,7 @@ date:   2020-01-04
 categories: mountaineering
 ---
 
-## Mt. Washington via the Lions Head Winter route
-
-### "The mountain is going to be here all day." - Jon
+### "The mountain is going to be here all day." - Jon  
 
 One mountain that has been on my list for a long time is Mt Washington. Mainly because it is 
 within driving distance of New York City and boasts of a technical winter route. 
