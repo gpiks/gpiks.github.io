@@ -18,6 +18,7 @@ rewarding climb. Jon and I decided 4th of January is the best time for a summit 
 
 This post-new-years trip began on Friday night with a 6 hour schlepp to the White Mountains. 
 On Saturday the plan was to do a couple of acclimitization and warm up hikes to get used to the cold,
+<<<<<<< HEAD
 snow and layers. We did (to be filled). As we negotiated around some slower hikers, one of them apologized
 to us (they really shouldn't), and Jon said "No worries, the mountain is going to be here all
 day". The mountain is going to be here all day. One thing that mountaineers always struggle with is
