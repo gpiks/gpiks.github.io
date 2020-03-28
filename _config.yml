@@ -17,10 +17,7 @@ title: gpiks
 sub_title: Gaurav Pikale
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a software engineer with a passion for improving developer experience. I work at Bloomberg LP as a 
-  Python Infrastructure Engineer in New York City. Other things that testing my physical limits and races 
-  (both in software and real life!). But most importantly, I like to learn and my interests are 
-  varied. What I would like to know is, what can I learn from you? 
+  A software engineer who is still figuring out what to do when he grows up.  
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
