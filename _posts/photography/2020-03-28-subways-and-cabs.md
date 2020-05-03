@@ -13,4 +13,4 @@ are affected. The parked taxis are a sign that business is down. But I know that
 its just a matter of time. My heart goes out to everyone suffering and also those fighting the the 
 good fight on the front lines. 
 
-![alt-text](https://unsplash.com/photos/taQQpQc9O04/download?force=true&w=1920)
+![alt-text](https://unsplash.com/photos/_-qs0fd8XPU/download?force=true&w=1920)
